@@ -2,3 +2,17 @@ html, body {
   height: 100%;
   width: 100%;
 }
+.left img{
+  width: 50px;
+  height:50px;
+}
+
+.container{
+  max-width: 80vw;
+  margin: auto;
+}
+
+nav ul li{
+  list-style: none;
+  padding: 0 30px;
+}
