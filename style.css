@@ -2,6 +2,8 @@
 html, body {
   height: 100%;
   width: 100%;
+  margin: 0;
+  padding: 0;
   font-family: 'Roboto', sans-serif;
 }
 .left img{
@@ -11,13 +13,16 @@ html, body {
 header{
   background-color: white;
   position: sticky;
+  height:66px;
   top:0;
 }
 .container{
   padding:0 3vw;
-  margin: 13px 0px;
 }
-
+nav{
+  font-size: 15px;
+  padding-top: 9px;
+}
 nav ul li{
   list-style: none;
   padding: 0 12px;
@@ -26,4 +31,12 @@ nav ul li{
 .section1{
   background-color: #f2f2f2;
   height:122vh;
+}
+
+.inputclass{
+  width:30vw;
+  padding: 10px;
+  background-color: #e7e2e2;
+  border: 1px;
+  border-radius: 5px;
 }
