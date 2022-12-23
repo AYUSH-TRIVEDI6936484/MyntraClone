@@ -40,3 +40,8 @@ nav ul li{
   border: 1px;
   border-radius: 5px;
 }
+
+.homeImg{
+  width:80vw;
+  margin: auto;
+}
