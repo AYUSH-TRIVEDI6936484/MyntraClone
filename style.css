@@ -6,23 +6,28 @@ html, body {
   padding: 0;
   font-family: 'Roboto', sans-serif;
 }
+
 .left img{
   width: 50px;
   height:50px;
 }
+
 header{
   background-color: white;
   position: sticky;
   height:66px;
   top:0;
 }
+
 .container{
   padding:0 3vw;
 }
+
 nav{
   font-size: 15px;
   padding-top: 9px;
 }
+
 nav ul li{
   list-style: none;
   padding: 0 12px;
@@ -30,7 +35,7 @@ nav ul li{
 
 .section1{
   background-color: #f2f2f2;
-  height:122vh;
+/*   height:122vh; */
 }
 
 .inputclass{
@@ -42,6 +47,6 @@ nav ul li{
 }
 
 .homeImg{
-  width:80vw;
-  margin: auto;
+  width: 93vw;
+  margin: 12px 0;
 }
